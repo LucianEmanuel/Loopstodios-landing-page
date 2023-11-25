@@ -133,6 +133,7 @@ h2 {
 .footer-nav-item,
 .social-links div {
   position: relative;
+  cursor: pointer;
 }
 
 .active-item::after {
